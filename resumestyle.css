@@ -1,0 +1,33 @@
+.left {
+	text-align: left;
+	font-style: oblique;
+}
+ 
+html {
+	background: linear-gradient(to bottom, rgba(231, 240, 245, 1) 0%, rgba(170, 221, 235, 1) 100%);
+	font-family: 'Roboto', sans-serif;
+	height: 150%;
+	margin: 0px;
+	padding:0px;
+}
+
+.headers {
+	padding-top: 30px;
+	text-decoration: underline;
+}
+
+.position {
+	font-size: 20px;
+	font-style: oblique;
+}
+
+.info {
+	font-size: 15px;
+	font-style: normal;
+	padding-right: 250px;
+}
+
+.home {
+	height: 30px;
+	width: 30px;
+}
