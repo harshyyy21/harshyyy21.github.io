@@ -50,24 +50,19 @@ html, body{
   color: black;
 }
 
-/*.body {
-  background: linear-gradient(to bottom, rgba(231, 240, 245, 1) 0%, rgba(170, 221, 235, 1) 100%);
-}*/
-
 .links {
-  list-style: none;
   padding-left: 0px;
   font-size: 18px;
 }
 
 .links li {
-  display: inline-block;
   margin-right: 8px;
+  display: inline-block;
 }
 
 .links a {
-  text-decoration: none;
   padding: 4px;
+  text-decoration: none;
 }
 
 .links a:hover {
